@@ -37,7 +37,7 @@ Para evitar falhas nos cartões gerados por serviços externos, consulte as esta
 ### 📫 Contato
 
 - **GitHub:** [@RNANP21](https://github.com/RNANP21)
-
+- **LinkedIn:** [@Renan Borge](https://www.linkedin.com/in/renan-borge-4212ab22a/)
 ---
 
 ⭐ Sempre aprendendo, desenvolvendo e evoluindo.
